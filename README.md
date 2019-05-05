@@ -1,3 +1,3 @@
 # nBody
-N-body problem
+N-body problem,
 Toshiaki Fujiwara
